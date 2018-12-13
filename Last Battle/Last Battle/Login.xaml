@@ -1,0 +1,36 @@
+﻿<Window x:Class="Last_Battle.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Last_Battle"
+        mc:Ignorable="d"
+        Title="Login Last Battle" Height="450" Width="800" Icon="ressources/logo-mini.png" WindowStartupLocation="CenterScreen">
+    <Grid Margin="0,0,2,-2">
+        <Grid.Background>
+            <ImageBrush ImageSource="ressources/map1.jpg"/>
+        </Grid.Background>
+        <TextBox Height="23" Margin="322,176,0,0" TextWrapping="Wrap" Width="120" HorizontalAlignment="Left" VerticalAlignment="Top" BorderBrush="{x:Null}" Foreground="Black"/>
+        <PasswordBox HorizontalAlignment="Left" Margin="322,235,0,0" VerticalAlignment="Top" Width="120" Height="24" BorderBrush="{x:Null}"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="305,292,0,0" VerticalAlignment="Top" Width="152" Height="62" BorderBrush="{x:Null}" Foreground="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="ressources/PlayNow.png"/>
+            </Button.Background>
+        </Button>
+        <Image HorizontalAlignment="Left" Height="33" Margin="292,172,0,0" VerticalAlignment="Top" Width="27" Source="ressources/username.png">
+            <Image.OpacityMask>
+                <ImageBrush ImageSource="ressources/username.png"/>
+            </Image.OpacityMask>
+        </Image>
+        <Image HorizontalAlignment="Left" Height="46" Margin="282,224,0,0" VerticalAlignment="Top" Width="46" Source="ressources/password.png" Stretch="UniformToFill">
+            <Image.OpacityMask>
+                <ImageBrush ImageSource="ressources/username.png"/>
+            </Image.OpacityMask>
+        </Image>
+        <Image HorizontalAlignment="Left" Height="100" Margin="224,30,0,0" VerticalAlignment="Top" Width="315" Source="ressources/logo-medium.png" Stretch="Fill"/>
+        <ProgressBar HorizontalAlignment="Left" Height="18" Margin="89,384,0,0" VerticalAlignment="Top" Width="582" Foreground="#FF00FFE8" AutomationProperties.IsOffscreenBehavior="Onscreen"/>
+
+
+
+    </Grid>
+</Window>

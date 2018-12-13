@@ -1,0 +1,18 @@
+C:\Users\Zovix\source\repos\Last Battle\Last Battle\bin\Debug\Last Battle.exe.config
+C:\Users\Zovix\source\repos\Last Battle\Last Battle\bin\Debug\Last Battle.exe
+C:\Users\Zovix\source\repos\Last Battle\Last Battle\bin\Debug\Last Battle.pdb
+C:\Users\Zovix\source\repos\Last Battle\Last Battle\obj\Debug\Last Battle.csprojAssemblyReference.cache
+C:\Users\Zovix\source\repos\Last Battle\Last Battle\obj\Debug\MainWindow.g.cs
+C:\Users\Zovix\source\repos\Last Battle\Last Battle\obj\Debug\App.g.cs
+C:\Users\Zovix\source\repos\Last Battle\Last Battle\obj\Debug\Last Battle_MarkupCompile.cache
+C:\Users\Zovix\source\repos\Last Battle\Last Battle\obj\Debug\Last Battle_MarkupCompile.lref
+C:\Users\Zovix\source\repos\Last Battle\Last Battle\obj\Debug\MainWindow.baml
+C:\Users\Zovix\source\repos\Last Battle\Last Battle\obj\Debug\Last Battle.g.resources
+C:\Users\Zovix\source\repos\Last Battle\Last Battle\obj\Debug\Last_Battle.Properties.Resources.resources
+C:\Users\Zovix\source\repos\Last Battle\Last Battle\obj\Debug\Last Battle.csproj.GenerateResource.cache
+C:\Users\Zovix\source\repos\Last Battle\Last Battle\obj\Debug\Last Battle.csproj.CoreCompileInputs.cache
+C:\Users\Zovix\source\repos\Last Battle\Last Battle\obj\Debug\Last Battle.exe
+C:\Users\Zovix\source\repos\Last Battle\Last Battle\obj\Debug\Last Battle.pdb
+C:\Users\Zovix\source\repos\Last Battle\Last Battle\obj\Debug\Login.g.cs
+C:\Users\Zovix\source\repos\Last Battle\Last Battle\obj\Debug\Login.baml
+C:\Users\Zovix\source\repos\Last Battle\Last Battle\obj\Debug\Last Battle_Content.g.cs

@@ -1,0 +1,24 @@
+﻿<Window x:Class="Last_Battle.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Last_Battle"
+        mc:Ignorable="d"
+        Title="Last Battle" Height="450" Width="800" ResizeMode="CanResizeWithGrip" WindowStartupLocation="CenterScreen" Icon="ressources/logo-mini.png">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="ressources/map1.jpg"/>
+        </Grid.Background>
+        <Image x:Name="Logo" HorizontalAlignment="Left" Height="199" Margin="179,54,-126,0" VerticalAlignment="Top" Width="739" Source="ressources/logo-medium.png">
+            <Image.OpacityMask>
+                <ImageBrush ImageSource="ressources/logo-medium.png" Stretch="Uniform"/>
+            </Image.OpacityMask>
+        </Image>
+        <Button Content="" HorizontalAlignment="Left" Margin="289,275,0,0" VerticalAlignment="Top" Width="200" Height="77" BorderBrush="{x:Null}" Foreground="{x:Null}" BorderThickness="0" Click="Button_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="ressources/PlayNow.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>
